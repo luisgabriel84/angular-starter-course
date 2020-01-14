@@ -2,7 +2,7 @@
 
 export interface Course {
     id:number;
-    description:string;
+    descriptionf:string;
     iconUrl: string;
     longDescription: string;
     category:string;
